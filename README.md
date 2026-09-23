@@ -111,20 +111,14 @@ Fixes COM/DCOM errors related to remote management
     Usage:
 
 Run PowerShell as Administrator
-Review the script
-Uncomment only the sections you want to execute
-Run the script:
-powershell
-.\FULL_DCOM_REPAIR_EXTREME.ps1
-Check the generated log file for results
+Run the script and check the generated log file for results:
+   powershell
+   WIN11_FULL_UNI_REPAIR_DCOM_V3.ps1
+(check log file, and run another script for repair:)
+   FULL_DIAG_REPAIR_DCOM.ps1
 
-Important Notes
+Important Notes:
 The script is designed for advanced users
 All destructive actions are disabled by default
 Always keep backups created by the script
 Use repair modules only when you understand their impact
-
-
-18.06.2026 
-Jacek Żaczek 
-j.zaczek@post.pl
