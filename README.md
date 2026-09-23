@@ -107,8 +107,7 @@ What it does when uncommented:
 Resets WinRM configuration
 Fixes COM/DCOM errors related to remote management
 
-
-    Usage:
+USAGE:
 
 Run PowerShell as Administrator
 Run the script and check the generated log file for results:
