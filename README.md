@@ -1,4 +1,5 @@
-WIN11_FULL_UNIVERSAL_DCOM_REPAIR_TOOL_V2
+Windows 11 - UNIVERSAL DCOM REPAIR TOOL V3
+
 This PowerShell script provides deep diagnostics with standard/advanced repair capabilities for COM/DCOM, AppID/CLSID permissions, OLE security descriptors, and core COM components.
 
   This PowerShell script provides deep diagnostics and optional repair capabilities for COM/DCOM, AppID/CLSID permissions, OLE security descriptors, and core COM components.
